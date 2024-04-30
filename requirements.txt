@@ -2,4 +2,3 @@ Django
 tzdata
 pillow
 pyscopg2
-postgresql
